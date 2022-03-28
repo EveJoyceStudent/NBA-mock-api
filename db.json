@@ -1,0 +1,36 @@
+{
+  "players": [
+    {
+      "PlayerID": 1,
+      "FirstName": "Helloman",
+      "LastName": "Testman",
+      "Wins": 15,
+      "Losses": 5,
+      "PlayerWinPercentage": .750,
+      "Points": 60,
+      "Rebounds": 64,
+      "Assists": 36,
+      "Steals": 14,
+      "Blocks": 15,
+      "MissedFieldGoals": 45,
+      "MissedFreeThrows": 32,
+      "TurnOvers": 35
+    },
+    {
+      "PlayerID": 2,
+      "FirstName": "Also",
+      "LastName": "Testy",
+      "Wins": 10,
+      "Losses": 5,
+      "PlayerWinPercentage": .667,
+      "Points": 60,
+      "Rebounds": 64,
+      "Assists": 36,
+      "Steals": 14,
+      "Blocks": 15,
+      "MissedFieldGoals": 45,
+      "MissedFreeThrows": 32,
+      "TurnOvers": 35
+    }
+  ]
+}
