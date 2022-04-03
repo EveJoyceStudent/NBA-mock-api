@@ -1,5 +1,5 @@
 {
-    "players/get-all": [
+    "players": [
         {
             "PlayerID": 1,
             "FirstName": "Helloman",
